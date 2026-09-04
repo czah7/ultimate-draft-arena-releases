@@ -1,7 +1,7 @@
 {
-  "version": "13.7.0",
-  "build": 13700,
-  "apk_url": "https://github.com/czah7/ultimate-draft-arena-releases/releases/download/v13.7.0/UltimateDraftArena-13.7.0.apk",
-  "sha256": "d1ebb468b3cdabdb32d373e77a9e1ae101daab7c0d63948744080a466bf86f2d",
+  "version": "13.7.1",
+  "build": 13701,
+  "apk_url": "https://github.com/czah7/ultimate-draft-arena-releases/releases/download/v13.7.1/UltimateDraftArena-13.7.1.apk",
+  "sha256": "a8c636896c76c79dd0eb67e7e17eb4e6ff979844bd14071f432a9a55e187833e",
   "notes": "Update system improvements."
 }
