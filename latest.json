@@ -1,7 +1,7 @@
 {
-  "version": "13.11.3",
-  "build": 131103,
-  "apk_url": "https://github.com/czah7/ultimate-draft-arena-releases/releases/download/v13.11.3/UltimateDraftArena-13.11.3.apk",
-  "sha256": "825703543c7afaa48591728fca471ee56f056af50143cd789ad33e2c701ebc46",
+  "version": "13.11.4",
+  "build": 131104,
+  "apk_url": "https://github.com/czah7/ultimate-draft-arena-releases/releases/download/v13.11.4/UltimateDraftArena-13.11.4.apk",
+  "sha256": "e82ff79aba5134abb0607a2d2f2a622f9cd817023729c5cd2c7ab10b3514f5c1",
   "notes": "CURRENT RELEASE IS NOT AVAILABLE FOR PUBLIC DISTRIBUTION. Private development/test build for authorized personal evaluation only. Redistribution is not authorized. Update system improvements."
 }
